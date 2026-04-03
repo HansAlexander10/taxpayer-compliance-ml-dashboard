@@ -28,25 +28,6 @@ This project was developed as part of an internship project and demonstrates the
 
 ---
 
-## Project Structure
-taxpayer-compliance-ml-dashboard
-│
-├── dataset
-│
-├── notebooks
-│ └── analysis.ipynb
-│
-├── src
-│ └── model.py
-│
-├── images
-│ └── dashboard_preview.png
-│
-├── README.md
-└── requirements.txt
-
----
-
 ## Workflow
 
 1. Data collection and preparation
@@ -55,6 +36,11 @@ taxpayer-compliance-ml-dashboard
 4. Machine learning model training
 5. Model evaluation and analysis
 6. Visualization of prediction insights
+
+---
+
+## How to Run
+Download this main file, locate the "dist" folder, go to the "Dashboard_WP" folder, and then open the application titled "Dashboard_WP" to open it
 
 ---
 
