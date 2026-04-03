@@ -46,7 +46,7 @@ Download this main file, locate the "dist" folder, go to the "Dashboard_WP" fold
 
 ## Project Visualization
 
-![Dashboard Preview](dashboard preview.png)
+![Dashboard Preview](dashboard%20preview.png)
 
 ---
 
