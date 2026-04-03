@@ -44,6 +44,12 @@ Download this main file, locate the "dist" folder, go to the "Dashboard_WP" fold
 
 ---
 
+## Project Visualization
+
+![Dashboard Preview](dashboard preview.png)
+
+---
+
 ## Results
 The system successfully demonstrates how machine learning techniques can be used to analyze compliance-related patterns within structured datasets. The analytical results provide insights that may support monitoring processes and strategic evaluation.
 
